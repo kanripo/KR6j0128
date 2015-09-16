@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 一字奇特佛頂經
+#+DATE: 2015-08-30 20:26:27.678491
+#+PROPERTY: JUAN 0
